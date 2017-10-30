@@ -17,7 +17,7 @@ public class Cr6Partage {
     public static void main(String[] args) {
         // TODO code application logic here
         Applic a = new Applic("Partage Source");
-        System.out.println(a.getNom());
+        System.out.println("app:"+a.getNom());
     }
     
 }
